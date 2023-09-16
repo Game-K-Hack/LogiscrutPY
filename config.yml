@@ -1,0 +1,16 @@
+default:
+  ncompteTNT: 
+  poidsParDefaut: 
+  assurance: 
+  heureLivreur: 
+  ncompteTNTCR: 
+  codeProduit: 
+  codeProduitCR: 
+  mailNotif: 
+  scanDossier: 
+gui:
+  sizeEntry: 15
+  sizeEntryPath: 54
+config:
+  path: 
+  searchExtention: 
