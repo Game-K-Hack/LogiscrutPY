@@ -1,0 +1,4 @@
+tkinter
+pystray
+pyyaml
+pillow
