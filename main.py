@@ -90,6 +90,7 @@ def show_window(icon, item):
    icon.stop()
    root.deiconify()
    root.attributes("-topmost", True)
+   root.attributes("-topmost", False)
 # Fonction pour sauvegarder la configuration dans un fichier pickle
 def save():
     root.iconify()

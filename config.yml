@@ -13,4 +13,4 @@ gui:
   sizeEntryPath: 54
 config:
   path: 
-  searchExtention: 
+  searchExtention: <VOTRE-EXTENSION-DE-FICHIER>
