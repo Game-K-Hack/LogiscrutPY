@@ -31,7 +31,7 @@
 
 **LogiscrutPY** est une application qui permet de traiter des fichiers CSV en convertissant leurs données dans un format spécifique, puis en les enregistrant dans de nouveaux fichiers CSV. Ce fichier README explique comment paramétrer l'application pour l'utiliser avec votre propre configuration.
 
-<br><br>
+<br>
 
 ## Usage
 
@@ -60,3 +60,13 @@ La configuration de LogiscrutPY se fait en modifiant le fichier `config.yml`. Vo
 - `config`: Les paramètres de configuration généraux de l'application, tels que le chemin du fichier de configuration, l'extension de fichier à surveiller, etc.
 
 Pour que le scan des fichiers fonctionne correctement, assurez-vous d'avoir bien remplacé `<VOTRE-EXTENSION-DE-FICHIER>` par l'extension de votre choix.
+
+<br>
+
+## Bonus
+
+Dans cette section, l'auteur du projet mentionne des fonctionnalités bonus ou des outils supplémentaires inclus dans le projet. Il s'agit apparemment de fichiers batch (scripts Windows) qui sont conçus pour faciliter l'utilisation du logiciel.
+
+- `INSTALLATION.bat` *(bientôt)*: Ce fichier batch est destiné à simplifier le processus d'installation du logiciel. Plus précisément, il permet de créer un nouvel environnement Python (un environnement virtuel, probablement) et d'installer les dépendances requises pour exécuter le logiciel. Cela peut être utile pour les utilisateurs qui ne sont pas familiers avec la configuration de l'environnement Python et souhaitent un processus d'installation automatisé.
+
+- `START.bat` : Ce fichier batch est conçu pour simplifier le lancement du logiciel. Il permet aux utilisateurs de lancer le logiciel sans avoir à ouvrir et à maintenir une fenêtre de commande (CMD) ouverte. Cela peut être pratique car cela évite aux utilisateurs de devoir saisir manuellement des commandes pour exécuter le logiciel.
